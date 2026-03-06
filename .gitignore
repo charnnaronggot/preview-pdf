@@ -1,0 +1,13 @@
+bin/
+obj/
+.idea/
+uploads/
+temp/
+*.user
+*.suo
+.vs/
+*.swp
+*.bak
+.vscode/
+*.log
+*.sln
